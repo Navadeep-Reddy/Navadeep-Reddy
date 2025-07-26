@@ -14,26 +14,24 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
 - 🔭 I’m currently working on **SeaWave - Distributed Realtime Ticketbooking Platform**
-
-- 🌱 I’m currently learning **DevOps and Advanced System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Navadeep-Reddy?tab=repositories](https://github.com/Navadeep-Reddy?tab=repositories)
 
@@ -50,7 +48,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/navadeep-reddy-60a406288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navadeep-reddy-60a406288" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12345678/navadeep-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="navadeep-reddy" height="30" width="40" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navadeep-reddy" height="30" width="40" /></a>
 <a href="mailto:venkatanavadeep2310116@ssn.edu.in" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email" height="30" width="30" /></a>
 </p>
 <br>
@@ -62,35 +59,28 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,kafka,nginx" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud & Hosting
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,aws,gcp,azure,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=postgresql,oracle,mongodb,redis" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
   </a>
 </p>
 
