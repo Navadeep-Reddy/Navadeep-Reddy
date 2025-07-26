@@ -1,5 +1,5 @@
-![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png](https://github.com/Navadeep-Reddy/ProjectScreenshots/blob/main/name_card.png?raw=true)
-<img align="left" src="https://github.com/Navadeep-Reddy/ProjectScreenshots/blob/main/name_card.png?raw=true](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+![logo](https://github.com/Navadeep-Reddy/ProjectScreenshots/blob/main/name_card.png?raw=true)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Navadeep Reddy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
@@ -14,7 +14,7 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
@@ -101,7 +101,8 @@
 <h3 align="left">Trophy:</h3>
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+</p>
   
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Navadeep-Reddy&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
@@ -117,7 +118,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Navadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navadeep-Reddy\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Navadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navadeep-Reddy&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Navadeep-Reddy&theme=midnight-purple)](https://git.io/streak-stats)
 
@@ -136,13 +137,13 @@
 
 <h3 align="left">Achievements:</h3>
 <p>
-  🏆 <b>First Place - Zenith Hackathon 2024</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team: The3Routers (Competed against 107 teams across all domains)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Developed VORP (Vehicle Optimal Route Planner), a logistics optimization solution
+  🏆 <b>First Place - Zenith Hackathon 2024</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team: The3Routers (Competed against 107 teams across all domains)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Developed VORP (Vehicle Optimal Route Planner), a logistics optimization solution
 </p>
 <p>
-  📜 <b>Programming in Java (NPTEL) 2023</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 1% of participants - National Programme on Technology Enhanced Learning
+  📜 <b>Programming in Java (NPTEL) 2023</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 1% of participants - National Programme on Technology Enhanced Learning
 </p>
 <br><br>
 
