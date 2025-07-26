@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Navadeep Reddy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<p align="center">I am a Software Engineer currently pursuing a Bachelor of Technology in Information Technology at SSN College of Engineering. I'm passionate about building innovative solutions and exploring new technologies to solve real-world problems. I love leveraging my skills to build cool stuffs 🛠️ and contribute to the open-source community.</p>
+<p align="center">I am a Software Engineer currently pursuing a Bachelor of Technology in Information Technology at SSN College of Engineering. I'm passionate about building innovative solutions and exploring new technologies to solve real-world problems. I love leveraging my skills to build cool stuffs 🛠️.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Navadeep-Reddy&label=Profile%20views&color=0e75b6&style=flat" alt="navadeep reddy" /> 
 </p>
