@@ -1,119 +1,154 @@
-<h1 align="center">Hi 👋, I'm Navadeep Reddy </h1>
+![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-🌱 I'm currently pursuing **Bachelor of Technology in Information Technology at SSN College of Engineering**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+<h1 align="center">Hi 👋, I'm Navadeep Reddy</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+<p align="center">I am a Software Engineer currently pursuing a Bachelor of Technology in Information Technology at SSN College of Engineering. I'm passionate about building innovative solutions and exploring new technologies to solve real-world problems. I love leveraging my skills to build cool stuffs 🛠️ and contribute to the open-source community.</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Navadeep-Reddy&label=Profile%20views&color=0e75b6&style=flat" alt="navadeep reddy" /> 
 </p>
 
-<hr width="36%">
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Navadeep-Reddy&show_icons=true&theme=dark&locale=en&layout=compact" alt="Navadeep-Reddy" /></p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Navadeep-Reddy&show_icons=true&theme=dark&locale=en" alt="Navadeep-Reddy" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Navadeep-Reddy&theme=dark" alt="Navadeep-Reddy" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+- 🔭 I’m currently working on **SeaWave - Distributed Realtime Ticketbooking Platform**
 
-<hr width="60%">
+- 🌱 I’m currently learning **DevOps and Advanced System Design**
 
-<h3>Projects</h3>
+- 👨‍💻 All of my projects are available at [https://github.com/Navadeep-Reddy?tab=repositories](https://github.com/Navadeep-Reddy?tab=repositories)
 
-<h4>🚚 VORP - Vehicle Optimal Route Planner</h4>
-<p>
-  • Advanced vehicle routing optimization platform to solve complex vehicle routing problems<br>
-  • Implemented Capacitated Vehicle Routing Problem (CVRP) solver using Google's OR-Tools<br>
-  • Created interactive map interface with Leaflet for real-time route visualization<br>
-  • Built with React, TypeScript, Tailwind CSS, Flask, OR-Tools<br>
-  • <b>Repository:</b> <a href="https://lnkd.in/gjiPf7f5">VORP Project</a>
-</p>
+- 💬 Ask me about **Java, Python, TypeScript, and React**
 
-<h4>🥗 HealthQuick</h4>
-<p>
-  • Health tracking web application for logging and analyzing macro-nutrient intake<br>
-  • Implemented flexible food description inputs that calculate protein, carbs, fats, and calories<br>
-  • Integrated Gemini API for diet analysis and nutrition recommendations<br>
-  • Built authentication system using Google OAuth via Firebase integration<br>
-  • Created interactive charts for visualizing nutritional data
-</p>
+- 📫 How to reach me **venkatanavadeep2310116@ssn.edu.in**
 
-<h3>Honors & Awards</h3>
-<p>
-  🏆 <b>First Place - Zenith Hackathon 2024</b><br>
-  Team: The3Routers (Competed against 107 teams across all domains)<br>
-  • Developed VORP (Vehicle Optimal Route Planner), a logistics optimization solution
-</p>
+- 📄 Know about my experiences [https://linkedin.com/in/navadeep-reddy-60a406288](https://linkedin.com/in/navadeep-reddy-60a406288)
 
-<h3>Certifications</h3>
-<p>
-  📜 <b>Programming in Java (NPTEL) 2023</b><br>
-  Top 1% of participants - National Programme on Technology Enhanced Learning
-</p>
+- ⚡ Fun fact **I believe code is a form of art**
 
-<hr width="60%">
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navadeep-reddy-60a406288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navadeep-reddy-60a406288" height="30" width="40" /></a>
-<a href="mailto:venkatanavadeep2310116@ssn.edu.in" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12345678/navadeep-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="navadeep-reddy" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navadeep-reddy" height="30" width="40" /></a>
+<a href="mailto:venkatanavadeep2310116@ssn.edu.in" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email" height="30" width="30" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navadeep-Reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Navadeep-Reddy" /> </p>
 
-------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[Navadeep-Reddy](https://github.com/Navadeep-Reddy)
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,express" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud & Hosting
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,aws,gcp,azure,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Navadeep-Reddy&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Navadeep-Reddy&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Navadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navadeep-Reddy\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Navadeep-Reddy&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Navadeep-Reddy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Navadeep-Reddy&custom_title=Navadeep's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Achievements:</h3>
+<p>
+  🏆 <b>First Place - Zenith Hackathon 2024</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team: The3Routers (Competed against 107 teams across all domains)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Developed VORP (Vehicle Optimal Route Planner), a logistics optimization solution
+</p>
+<p>
+  📜 <b>Programming in Java (NPTEL) 2023</b><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 1% of participants - National Programme on Technology Enhanced Learning
+</p>
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="https://github.com/Navadeep-Reddy">Navadeep Reddy</a></p>
