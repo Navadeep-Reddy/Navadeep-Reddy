@@ -27,17 +27,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **SeaWave - Distributed Realtime Ticketbooking Platform**
+-   🔭 I’m currently working on **SeaWave - Distributed Realtime Ticketbooking Platform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Navadeep-Reddy?tab=repositories](https://github.com/Navadeep-Reddy?tab=repositories)
+-   👨‍💻 All of my projects are available at [https://github.com/Navadeep-Reddy?tab=repositories](https://github.com/Navadeep-Reddy?tab=repositories)
 
-- 💬 Ask me about **Java, Python, TypeScript, and React**
+-   💬 Ask me about **Java, Python, TypeScript, and React**
 
-- 📫 How to reach me **venkatanavadeep2310116@ssn.edu.in**
+-   📫 How to reach me **venkatanavadeep2310116@ssn.edu.in**
 
-- 📄 Know about my experiences [https://linkedin.com/in/navadeep-reddy-60a406288](https://linkedin.com/in/navadeep-reddy-60a406288)
+-   📄 Know about my experiences [https://linkedin.com/in/navadeep-reddy-60a406288](https://linkedin.com/in/navadeep-reddy-60a406288)
 
-- ⚡ Fun fact **I believe code is a form of art**
+-   ⚡ Fun fact **I believe code is a form of art**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -52,28 +52,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+-   Backend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,kafka,nginx" />
   </a>
 </p>
 
-- Frontend
+-   Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react" />
   </a>
 </p>
 
-- Database
+-   Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,oracle,mongodb,redis" />
   </a>
 </p>
 
-- Tools
+-   Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
@@ -84,22 +84,66 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trophy:</h3>
+<h3 align="left">Cool Projects:</h3>
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
-</p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Navadeep-Reddy&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://github.com/Navadeep-Reddy/SeaWave" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="SeaWave" /><br/>
+        <strong>SeaWave</strong>
+      </a>
+      <br/>
+      <sub>Distributed Realtime Ticketbooking Platform with scalable microservices architecture.</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://github.com/Navadeep-Reddy/VORP" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/854/854929.png" width="48" height="48" alt="VORP" /><br/>
+        <strong>VORP</strong>
+      </a>
+      <br/>
+      <sub>Vehicle Optimal Route Planner — AI-powered logistics routing app, Zenith Hackathon 2024 winner.</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://github.com/Navadeep-Reddy/LocaCash" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" width="48" height="48" alt="LocaCash" /><br/>
+        <strong>LocaCash</strong>
+      </a>
+      <br/>
+      <sub>ATM Placement optimizer for strategic location analysis and accessibility improvement.</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">🏆 GitHub Achievements:</h3>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Navadeep-Reddy&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeep-Reddy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/Navadeep-Reddy?style=for-the-badge&color=7F3FBF&labelColor=0D1117" alt="Followers" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/Navadeep-Reddy?style=for-the-badge&color=7F3FBF&labelColor=0D1117" alt="Stars" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=Navadeep-Reddy&style=for-the-badge&color=7F3FBF&label=PROFILE+VIEWS" alt="Profile Views" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/REPOSITORIES-20+-7F3FBF?style=for-the-badge&labelColor=0D1117" alt="Repositories" />
+      </td>
+    </tr>
+  </table>
+</div>
  <br><br>
-
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -137,4 +181,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<br>
+<p align="right" > Created with 🧡 by <a href="https://github.com/Navadeep-Reddy">Navadeep Reddy</a></p>
