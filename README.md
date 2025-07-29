@@ -99,6 +99,8 @@
  </div>
  <br><br>
 
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
@@ -109,6 +111,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Navadeep-Reddy&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
+
+<table align="center"> <tr> <td align="center" width="220"> <a href="https://github.com/Navadeep-Reddy/SeaWave" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="SeaWave" /><br/> <strong>SeaWave</strong> </a> <br/> <sub>🌊 Distributed Realtime Ticketbooking Platform with scalable microservices architecture.</sub> </td> <td align="center" width="220"> <a href="https://github.com/Navadeep-Reddy/VORP" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="VORP" /><br/> <strong>VORP</strong> </a> <br/> <sub>🚗 Vehicle Optimal Route Planner — AI-powered logistics routing app, Zenith Hackathon 2024 winner.</sub> </td> <td align="center" width="220"> <a href="https://github.com/Navadeep-Reddy/LocaCash" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="LocaCash" /><br/> <strong>LocaCash</strong> </a> <br/> <sub>📍 Hyperlocal digital wallet to drive seamless local marketplace transactions.</sub> </td> </tr> </table> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br><br>
 
@@ -135,7 +139,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<br>
-<p align="right" > Created with 🧡 by <a href="https://github.com/Navadeep-Reddy">Navadeep Reddy</a></p>
